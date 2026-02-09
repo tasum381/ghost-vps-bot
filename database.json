@@ -1,0 +1,89 @@
+{
+  "bot": {
+    "num": 10,
+    "Nf": 9,
+    "Bcc1": {
+      "IP": "1.2.3.4",
+      "U": "admin",
+      "P": "password123"
+    },
+    "REFLIB_userundefined": {
+      "telegramid": 7331964567,
+      "first_name": "সাইম সরকার",
+      "last_name": "",
+      "username": "MYREE_X"
+    },
+    "ResourcesLib_user6898803735_balance": 1296,
+    "Bcc2": {
+      "IP": "/add 192.168.1.1",
+      "U": "Admin",
+      "P": "Pass123"
+    },
+    "Bcc3": {
+      "IP": "192.168.1.1",
+      "U": "Admin",
+      "P": "Pass123\n192.168.1.1"
+    },
+    "Bcc4": {
+      "IP": "192.168.1.1",
+      "U": "Admin",
+      "P": "Pass123"
+    },
+    "Bcc5": {
+      "IP": "192.168.1.1",
+      "U": "Admin",
+      "P": "Pass123"
+    },
+    "Bcc6": {
+      "IP": "192.168.1.1",
+      "U": "Admin",
+      "P": "Pass123"
+    },
+    "REFLIB_user6898803735": {
+      "id": 6898803735,
+      "telegramid": 6898803735,
+      "first_name": "Santori ⚡",
+      "last_name": "",
+      "username": "Sir_santori"
+    },
+    "LIST_REFLIB_TopList": [],
+    "Bcc7": {
+      "IP": "100.79.171.38",
+      "U": "RDP",
+      "P": "iHs5Wn2e0\"'3B)#P"
+    },
+    "Bcc8": {
+      "IP": "120.46.153.175",
+      "U": "3389",
+      "P": "Administrator;HuaweiCloud@123"
+    },
+    "Bcc9": {
+      "IP": "120.46.153.175",
+      "U": "Administrator",
+      "P": "HuaweiCloud@123"
+    },
+    "ResourcesLib_user6734772100_balance": 62
+  },
+  "users": {
+    "7331964567": {
+      "joined": true,
+      "userStatus": "member",
+      "REFLIB_old_user": true
+    },
+    "6230852162": {
+      "REFLIB_old_user": true
+    },
+    "6898803735": {
+      "REFLIB_old_user": true,
+      "joined": true,
+      "userStatus": "member",
+      "admin_add_coin_target_id": null,
+      "current_adding_rdp_type": "4"
+    },
+    "6734772100": {
+      "REFLIB_old_user": true,
+      "joined": true,
+      "userStatus": "member"
+    }
+  }
+}
